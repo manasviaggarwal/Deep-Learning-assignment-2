@@ -1,4 +1,4 @@
-# DeepLearning2 assignment 2
+# Deep Learning assignment 2
 
 This is the second assignment of the Deep Learning Course 2020. In this we deal with two parts:
 
