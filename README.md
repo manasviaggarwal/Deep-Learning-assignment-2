@@ -6,6 +6,6 @@ This is the second assignment of the Deep Learning Course 2020. In this we deal 
 
 Train a neural network on Fashion MNIST dataset. Various configurations of the hyperparameters are tested to find the optimal setting.
 
-# PART 2: 
+# Part 2: 
 
 Train a CNN on Fashion MNIST dataset. Different configurations of the hyperparameters are tested to find the optimal specifications.
